@@ -1,6 +1,0 @@
-<svg height="100" width="100"  fill="none" xmlns="http://www.w3.org/2000/svg">
-<symbol id="check" viewbox="0 0 240 240">
-  <circle cx="110" cy="110" r="100" stroke="light-blue" stroke-width="20" fill="white" />
-  <polyline points="70,120 100, 165 150,80" stroke="light-blue" stroke-width="20" stroke-linecap="round" stroke-linejoin="round">
-  </symbol>
-</svg>
