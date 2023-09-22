@@ -1,10 +1,9 @@
-body{
+body {
   display: flex;
   justify-content: center;
   position: relative;
   top: 50px;
 }
-svg{
+svg {
   margin: 20px;
 }
-
